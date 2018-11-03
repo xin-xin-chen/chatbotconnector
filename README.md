@@ -1,1 +1,1 @@
-# SFBOT
+# Generic Chatbot connector
